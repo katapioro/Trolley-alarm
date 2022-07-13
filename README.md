@@ -1,4 +1,4 @@
-# Trolley-alarm
+# Trolley-alarm (2022)
 ## Authors
 Katarzyna Pióro - code
 <br/>Bartosz Sajdak - documentation
